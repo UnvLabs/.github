@@ -1,25 +1,31 @@
-## Hi there 👋
-
-### Why Unv?
-We can't use one langauge for everything. Unv is a attempt to make a simple one for this purpose.With simple syntax similar to python , it can be used for any task.
-**It can be compiled to:**
-- JS
-- Python
-- *More to come*
-**It can be used for:**
-- Web
-- IOT
-- pretty much anything else
+## 🙋‍♀️ A short introduction
+We can't use one langauge for everything. Unv is a attempt to make a simple one for this purpose. With simple syntax similar to python , it can be used for any task.
 
 **Here's a taste of UNV :**
 
 ```py
 import 'print' from 'standard'
+
 if 'Unv is awesome!'
     print('Hello World!')
 ```
 
 Currently UNV is under development
+
+## 🌈 Contribution guidelines
+Contributors are the power of this organization.
+
+## 👩‍💻 Useful resources
+- 🕸️ Visit our [website](https://unvlang.netlify.app/)
+- ⏯️ There is a [playground](https://unvlang.netlify.app/playground)
+- 📖 Comes with a [tutorial](https://unvlang.netlify.app/docs/tutorial/introduction)
+- 📰 With some articles on [blog](https://unvlang.netlify.app/blog)
+
+## 🍿 Fun facts
+We are using coffee to think.
+
+<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 
 <!--
 
