@@ -13,9 +13,9 @@ if 'Unv is awesome!'
 
 
 ## 🌈 Contribution guidelines
-Contributors are the power of this organization.
-
-Currently UNV is under development
+Unv is a volunteer effort. We encourage you to pitch in and join the [team](https://github.com/orgs/UnvLabs/people)!
+See our [guidelines](https://github.com/UnvLabs/.github/blob/main/CONTRIBUTING.md#readme) to start contributing.
+> Currently UNV is under development
 
 ## 👩‍💻 Useful resources
 - 🕸️ Visit our [**website**](https://unvlang.netlify.app/)
