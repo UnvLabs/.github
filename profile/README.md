@@ -11,16 +11,17 @@ if 'Unv is awesome!'
     print('Hello World!')
 ```
 
-Currently UNV is under development
 
 ## 🌈 Contribution guidelines
 Contributors are the power of this organization.
 
+Currently UNV is under development
+
 ## 👩‍💻 Useful resources
-- 🕸️ Visit our [website](https://unvlang.netlify.app/)
-- ⏯️ There is a [playground](https://unvlang.netlify.app/playground)
-- 📖 Comes with a [tutorial](https://unvlang.netlify.app/docs/tutorial/introduction)
-- 📰 With some articles on [blog](https://unvlang.netlify.app/blog)
+- 🕸️ Visit our [**website**](https://unvlang.netlify.app/)
+- ⏯️ There is a [**playground**](https://unvlang.netlify.app/playground)
+- 📖 Comes with a [**tutorial**](https://unvlang.netlify.app/docs/tutorial/introduction)
+- 📰 With some articles on [**blog**](https://unvlang.netlify.app/blog)
 
 ## 🍿 Fun facts
 We are using coffee to think.
@@ -38,4 +39,3 @@ We are using coffee to think.
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-<sub><a href="https://depositphotos.com/category/business-finance.html">Blue universe space abstract background. watercolor illustration - depositphotos.com</a></sub>
