@@ -1,2 +1,2 @@
-# unvlabs
-Universal programming language
+# dot Github
+Github config files for Unv organisation.
