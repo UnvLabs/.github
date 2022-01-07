@@ -1,4 +1,4 @@
-<img src="https://github.com/UnvLabs/.github/raw/main/profile/universe.jpg" width="100%" height="auto" alt="image of universe"/>
+<img src="https://github.com/UnvLabs/.github/raw/main/profile/universe-cover.jpg" width="100%" height="auto" alt="image of universe"/>
 
 ## 🙋‍♀️ A short introduction
 We can't use one langauge for everything. Unv is a attempt to make a simple one for this purpose. With simple syntax similar to python , it can be used for any task.
