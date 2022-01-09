@@ -8,7 +8,7 @@ We can't use one langauge for everything. Unv is a attempt to make a simple one 
 **Here's a taste of UNV :**
 
 ```py
-import 'print' from 'standard'
+import print from 'standard'
 
 if 'Unv is awesome!'
     print('Hello World!')
