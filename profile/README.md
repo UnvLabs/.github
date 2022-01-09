@@ -25,6 +25,7 @@ See our [guidelines](https://github.com/UnvLabs/.github/blob/main/CONTRIBUTING.m
 - ⏯️ There is a [**playground**](https://unvlang.netlify.app/playground)
 - 📖 Comes with a [**tutorial**](https://unvlang.netlify.app/docs/tutorial/introduction)
 - 📰 With some articles on [**blog**](https://unvlang.netlify.app/blog)
+- 🤙 Or chat with us on  [![Gitter](https://badges.gitter.im/unvlang/community.svg)](https://gitter.im/unvlang/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## 🍿 Fun facts
 We are using coffee to think.
